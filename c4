@@ -1,1 +1,3 @@
 This is commit 4 in topic branch iss1
+After c4 commit in iss1, chekcout to master and merge branch iss1 to master.Now c4 is the HEAD of master.
+After all, delete iss1.
