@@ -1,0 +1,6 @@
+This is commit 20 in branch master.
+After merge branch iss5 in master.
+    1.iss5 modify c18 and c19 file,which different from c18 and c19 in master.
+    2.and then rebase master in branch iss5, solve conflict(edit c18 and c19 file and then add to stage,without commit.)
+    3.checkout to master, merge iss5
+
